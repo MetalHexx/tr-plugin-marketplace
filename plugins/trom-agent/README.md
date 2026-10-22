@@ -5,7 +5,7 @@ A Claude Code plugin that turns your coding agent into a companion for your C64 
 ## What it does
 
 - **DJ and timed sets:** play music by artist or theme, or build a set that runs for a given length of time.
-- **Library tours and curation:** browse your library by composer, year, or group and pick what to play next.
+- **Library tours and curation:** browse your library folder by folder and pick what to play next.
 - **Light doctor:** check that the `trom` CLI, the engine, and a device are online, and walk through common setup problems.
 - **Install from source:** until a `trom` release exists, the skill can build `trom` from the TeensyROM-Web source.
 
@@ -14,10 +14,10 @@ A Claude Code plugin that turns your coding agent into a companion for your C64 
 Install the plugin from the [marketplace](../../README.md), then type:
 
 ```
-/trom
+/trom-agent:trom
 ```
 
-`/trom-agent:trom` starts the same skill under its plugin-qualified name. The companion starts only when you run the command; the agent does not start it on its own.
+`/trom` starts the same skill where Claude Code accepts the short name. The companion starts only when you run the command; the agent does not start it on its own.
 
 ## How it works
 

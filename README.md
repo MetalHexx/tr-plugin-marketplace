@@ -16,7 +16,7 @@ Plugins that turn your coding agent into a companion for your C64 and [TeensyROM
    /plugin install trom-agent@tr-plugin-marketplace
    ```
 
-3. Start it by typing `/trom` (or `/trom-agent:trom`).
+3. Start it by typing `/trom-agent:trom` (or `/trom`, where Claude Code accepts the short name).
 
 ## Plugins
 
