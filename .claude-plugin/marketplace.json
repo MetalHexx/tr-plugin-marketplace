@@ -1,0 +1,13 @@
+{
+  "name": "tr-plugin-marketplace",
+  "owner": { "name": "MetalHexx", "url": "https://github.com/MetalHexx" },
+  "metadata": { "description": "Plugins that turn your coding agent into a companion for your C64 and TeensyROM." },
+  "plugins": [
+    {
+      "name": "trom-agent",
+      "source": "./plugins/trom-agent/claude",
+      "description": "Play music and demos, explore your library, and check your TeensyROM setup through the trom CLI.",
+      "version": "0.1.0"
+    }
+  ]
+}
