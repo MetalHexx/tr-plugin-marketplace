@@ -6,7 +6,7 @@
     {
       "name": "trom-agent",
       "source": "./plugins/trom-agent/claude",
-      "description": "Play music and demos, explore your library, and check your TeensyROM setup through the trom CLI.",
+      "description": "Trom is your TeensyROM companion: launch and shuffle your library, run timed sets, open the web UI, and check your setup through the trom CLI.",
       "version": "1.0.0-alpha.8"
     }
   ]
