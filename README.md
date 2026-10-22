@@ -22,7 +22,7 @@ Plugins that turn your coding agent into a companion for your C64 and [TeensyROM
 
 | Plugin | What it does | Needs |
 |--------|--------------|-------|
-| [`trom-agent`](plugins/trom-agent/README.md) | Plays music and demos, tours and curates your library, and checks your TeensyROM setup. | The `trom` CLI. The skill can build it from the [TeensyROM-Web](https://github.com/MetalHexx/TeensyROM-Web) source until a release exists. |
+| [`trom-agent`](plugins/trom-agent/README.md) | Trom, your TeensyROM companion: launches and shuffles your library, runs timed sets, opens the web UI, and checks your setup. | The `trom` CLI. The skill can build it from the [TeensyROM-Web](https://github.com/MetalHexx/TeensyROM-Web) source until a release exists. |
 
 ## Contributing
 
