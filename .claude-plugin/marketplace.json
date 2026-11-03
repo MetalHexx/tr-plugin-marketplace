@@ -6,8 +6,8 @@
     {
       "name": "trom-agent",
       "source": "./plugins/trom-agent/claude",
-      "description": "Trom is your TeensyROM companion: launch and shuffle your library, run timed sets, open the web UI, and check your setup through the trom CLI.",
-      "version": "1.0.0-alpha.8"
+      "description": "Trom Agent is your TeensyROM companion: play and shuffle your library, run timed sets, copy files, set up watch folders and themes, check your setup, and install and update TeensyROM Suite, all through Trom Terminal.",
+      "version": "1.0.0-beta.1"
     }
   ]
 }
