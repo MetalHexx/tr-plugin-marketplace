@@ -10,7 +10,7 @@ Trom Agent is your TeensyROM companion inside Claude Code. Type `/trom` and ask 
 - **Copy files and watch folders:** send files to your cart or bring them back, and set up a folder that sends whatever lands in it to your cart.
 - **Themes:** set the colors of your C64's menu, from a shipped theme or one of your own.
 - **Trom UI and Trom Terminal:** open Trom UI in your browser, or Trom Terminal's guided menu in a new terminal window, with a short tour if you want one.
-- **Install and update the suite:** installs TeensyROM Suite from its newest release (with Homebrew on a Mac), and offers the update when a new release is out.
+- **Install and update the suite:** installs TeensyROM Suite from its newest release, with Homebrew on a Mac and from a checked download on Windows, Linux and Raspberry Pi, and offers the update when a new release is out.
 - **Setup doctor:** Virtual Travis, an AI stand-in modeled on the support Travis Smith, who created the TeensyROM, gives its users, checks Trom Terminal, Trom API, Trom UI, your cart and your index, and walks you through the fixes. He is not the real Travis.
 
 ## Start it
